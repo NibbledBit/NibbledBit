@@ -2,7 +2,7 @@
 
 I'm NibbledBit, Software Engineer of 15 years and counting!
 
-🏢 My day job is working on Smarter Vending Machines in the UK.
+🏢 My day job is working on Smart Vending Machines in the UK.
 
 🌱 I’m currently learning Solidity!
 
