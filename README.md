@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm NibbledBit, Software Engineer of 15years and counting!
+I'm NibbledBit, Software Engineer of 15 years and counting!
 
 🏢 My day job is working on Smarter Vending Machines in the UK.
 
