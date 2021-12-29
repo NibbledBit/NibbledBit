@@ -6,11 +6,9 @@ I'm NibbledBit, Software Engineer of 15 years and counting!
 
 🌱 I’m currently learning Solidity!
 
-<!--
-[[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)](url)
--->
+[[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/twitter125.png">](http://google.com.au/)
+
 [![Nibbles' GitHub stats](https://github-readme-stats.vercel.app/api?username=NibbledBit)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
