@@ -7,9 +7,12 @@ I'm NibbledBit, Software Engineer of 15 years and counting!
 🌱 I’m currently learning Solidity!
 
 
-[[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/twitter125.png">](http://google.com.au/)
-
 [![Nibbles' GitHub stats](https://github-readme-stats.vercel.app/api?username=NibbledBit)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/wordpress25.png">](https://bitofanibble.wordpress.com/)
+[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/twitter25.png">](https://twitter.com/NibbledBit)
 
 <!--
 **NibbledBit/NibbledBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
