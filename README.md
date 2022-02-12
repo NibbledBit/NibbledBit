@@ -4,7 +4,7 @@ I'm NibbledBit, Software Engineer of 15 years and counting!
 
 🏢 My day job is working on Smart Vending Machines in the UK.
 
-🌱 I’m currently learning Solidity!
+🌱 I’m currently building with Solidity!
 
 
 [![Nibbles' GitHub stats](https://github-readme-stats.vercel.app/api?username=NibbledBit)](https://github.com/anuraghazra/github-readme-stats)
