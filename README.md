@@ -11,7 +11,7 @@ I'm NibbledBit, Software Engineer of 15 years and counting!
 
 
 
-[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/wordpress25.png">](https://bitofanibble.wordpress.com/)
+[<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/wordpress25.png">](http://bitofanibble.com/)
 [<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/twitter25.png">](https://twitter.com/NibbledBit)
 
 <!--
