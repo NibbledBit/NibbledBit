@@ -1,14 +1,18 @@
 ### Hello World! 👋
 
-I'm NibbledBit, Software Engineer of 15 years and counting!
+I'm NibbledBit, passionate Software Engineer of over 15 years and counting!
 
 🏢 My day job is working on Smart Vending Machines in the UK.
 
-🌱 I’m currently building with Solidity!
+🌱 I’m currently expanding my Solidity and Blockchain experience!
 
+🔭 My latest project is a build your own Profile Picture NFT.
+
+👯 I’m looking to collaborate on Dapps and Blockchain projects!
+
+📫 How to reach me: [Contact me on my WordPress blog](https://bitofanibble.com/contact/).
 
 [![Nibbles' GitHub stats](https://github-readme-stats.vercel.app/api?username=NibbledBit)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [<img src="https://raw.githubusercontent.com/NibbledBit/NibbledBit/main/wordpress25.png">](http://bitofanibble.com/)
