@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm Nibbles, passionate Software Engineer of over 15 years and counting!
+I'm Shaun, passionate Software Engineer of over 15 years and counting!
 
 🏢 My day job is working on Smart Vending Machines in the UK.
 
