@@ -8,8 +8,6 @@ I'm Shaun, passionate Software Engineer of over 15 years and counting!
 
 🔭 My latest project is a build your own Profile Picture NFT.
 
-👯 I’m looking to collaborate on Dapps and Blockchain projects!
-
 📫 How to reach me: [Contact me on my WordPress blog](https://bitofanibble.com/contact/).
 
 [![Nibbles' GitHub stats](https://github-readme-stats.vercel.app/api?username=NibbledBit)](https://github.com/anuraghazra/github-readme-stats)
