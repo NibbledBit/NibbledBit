@@ -4,9 +4,9 @@ I'm Shaun, passionate Software Engineer of over 15 years and counting!
 
 🏢 My day job is working on Smart Vending Machines in the UK.
 
-🌱 I’m currently expanding my Solidity and Blockchain experience!
+🌱 I’m currently expanding my MAUI experience!
 
-🔭 My latest project is a build your own Profile Picture NFT.
+🔭 My latest project is an app to help remember gifts for birthdays and anniversaries.
 
 📫 How to reach me: [Contact me on my WordPress blog](https://bitofanibble.com/contact/).
 
